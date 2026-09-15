@@ -1,0 +1,3 @@
+EZ_MACOS_CMD
+
+du -sh ~/Library/Containers/com.microsoft.onenote.mac 2>/dev/null
